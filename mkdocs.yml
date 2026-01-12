@@ -1,0 +1,8 @@
+site_name: NetherSX2 Docs
+site_url: https://nethersx2-docs.readthedocs.io/
+
+theme:
+  name: material
+
+nav:
+  - Home: docs/index.md
